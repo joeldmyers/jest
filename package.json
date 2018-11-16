@@ -1,0 +1,23 @@
+{
+  "name": "jest-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldmyers/jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldmyers/jest/issues"
+  },
+  "homepage": "https://github.com/joeldmyers/jest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
